@@ -10,7 +10,7 @@ Armed robberies are a major concern all around the world, that can have serious 
 ## Citations
 
 * [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-* [aj-ames/handgun-Deepstream](https://github.com/aj-ames/Hermes-Deepstream.git)
+* [aj-ames/Hermes-Deepstream](https://github.com/aj-ames/Hermes-Deepstream.git)
 
 ## Index
 
