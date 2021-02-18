@@ -2,10 +2,7 @@
 
 Armed robberies are a major concern all around the world, that can have serious repercussions. This app, built on Nvidia's Deepsteam SDK, which is a complete streaming analytics toolkit for AI-based multi-sensor processing, video and image understanding, helps individuals in early detection of Handguns during robberies, through CCTV footage. Post which, quick and appropirate action can be taken.
 
-![HandgunDetection](misc/handgun1.png)
-![HandgunDetection2](misc/handgun2.png)
-![HandgunDetection2](misc/handgun3.png)
-
+![HandgunDetection2](misc/guns.png)
 
 ## Citations
 
